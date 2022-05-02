@@ -1,7 +1,7 @@
 # DIO
 Anotações e atividades executadas nos cursos da plataforma DIO
 
-# Índice:
+# Sumário:
 
 ## Curso Web Designer
 ### Módulo I
