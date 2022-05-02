@@ -1,0 +1,13 @@
+***************************************************
+				Comandos GitHub
+***************************************************
+
+git init				- cria o repositório no git
+git add *				- adiciona todos o arquivos para o git
+git commit -m "x"		- realiza o git
+git status				- verifica o status dos arquivos no git
+git config --list		- lista as configurações atuais do git
+git remote -v			- mostra a lista de transferencia para o servidor
+git push origin master	- upload dos arquivos para o servidor
+git pull origin master	- download dos arquivos do servidor
+git clone URL			- download de um repositório do github

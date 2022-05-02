@@ -1,0 +1,14 @@
+***************************************************
+				Comandos Terminal
+***************************************************
+
+Window		Unix
+cd			cd					- entra na pasta desejada
+dir			ls					- lista os diretórios
+			ls -a				- lista os arquivos ocultos
+mkdir		mkdir				- cria uma nova pasta
+del								- deleta o arquivo
+rmdir		rm -rf				- deleta a pasta por completo
+cd ..		cd ..				- volta uma pasta
+cls			clear				- limpa a tela do cmd
+			mv xxx ./pasta/		- move o arquivo para outra pasta
