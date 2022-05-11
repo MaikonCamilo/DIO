@@ -19,4 +19,5 @@ Anotações e atividades executadas nos cursos da plataforma DIO
 * Bootstrap
 * CSS3
 * HTML
+* Projeto_Netflix
 * Redes
