@@ -42,26 +42,26 @@ header nav a:hover{
 }
 
 /*serie principal*/
-.serie-principal{
+.game-principal{
     font-size: 16px;
 
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa.jpg');
-    height: 400px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('../img/capa.jpeg');
+    height: 500px;
     background-size: cover;
 
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
 }
 
-.serie-principal .descricao{
-    margin-top: 10px;
+.game-principal .descricao{
+    margin-top: 20px;
     margin-bottom: 40px;
 }
 
-.serie-principal .titulo{
-    margin-top: 15%;
+.game-principal .titulo{
+    margin-top: 50px;
     font-size: 40px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
@@ -88,19 +88,29 @@ header nav a:hover{
     margin-right: 8px;
 }
 
+.margin{
+    margin-top: 10px;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
 .container {
     margin-left: 20px;
 }
 
-.serie-principal .container{
-    width: 70%;
+.game-principal .container{
+    width: 50%;
 }
 
 .box-serie{
     height: 100%;
     width: 100%;
-    max-height: 330px;
-    max-width: 220px;
+    max-height: 352px;
+    max-width: 264px;
     display: block;
 }
 
