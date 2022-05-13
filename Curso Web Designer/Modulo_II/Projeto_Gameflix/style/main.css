@@ -1,6 +1,6 @@
 :root{
     --vermelho: #E50914;
-    --preta: #141414;
+    --preto: #141414;
 }
 
 /*reset*/
@@ -12,12 +12,12 @@
 
 /*elementos base*/
 body {
-    background: var(--preta);
+    background: var(--preto);
     font-family: 'Times New Roman', Times, serif;
     color: white;
 }
 
-header .container{
+header .mycontainer{
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -76,10 +76,11 @@ header nav a:hover{
 
     padding: 15px 30px;
     margin-right: 15px;
-    font-size: 12px;
+    font-size: 16px;
 
     cursor: pointer;
     transition: .3s ease all;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
 .botao:hover{
@@ -101,11 +102,11 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.container {
+.mycontainer {
     margin-left: 20px;
 }
 
-.game-principal .container{
+.game-principal .mycontainer{
     width: 50%;
 }
 
@@ -124,4 +125,19 @@ header nav a:hover{
 .rodape{
     margin-top: 30px;
     font-size: 18px;
+}
+
+.modal-content{
+    background-color: var(--preto);
+}
+
+.informacao_titulo{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 30px;
+    color: #fff;
+}
+
+.informacao, .btn-secondary{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #fff;
 }
