@@ -23,5 +23,8 @@ Anotações e atividades executadas nos cursos da plataforma DIO
 * Redes
 
 ### Módulo III
+* Assincrono
+* Atividade_Assincrono
 * Coleções
+* Debugging_e_Error_Handling
 * Javascript
