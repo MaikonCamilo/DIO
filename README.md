@@ -28,3 +28,5 @@ Anotações e atividades executadas nos cursos da plataforma DIO
 * Coleções
 * Debugging_e_Error_Handling
 * Javascript
+* Map_Filter_Reduce
+* Orientacao_a_Objetos
